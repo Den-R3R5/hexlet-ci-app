@@ -1,3 +1,5 @@
+# Status
+[![test-and-lint](https://github.com/Den-R3R5/hexlet-ci-app/actions/workflows/test-and-lint.yml/badge.svg)](https://github.com/Den-R3R5/hexlet-ci-app/actions/workflows/test-and-lint.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
