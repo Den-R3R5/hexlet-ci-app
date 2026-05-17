@@ -10,8 +10,10 @@ jobs:
       - name: build
         uses: actions/checkout@v4
         
-      - name: setup
+      - name: setup node
         uses: actions/setup-node@v4
+
+      - name: setup
         run: make setup
 
       - name: run tests
