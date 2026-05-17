@@ -21,3 +21,5 @@ jobs:
 
       - name: run lint
         run: make lint 
+      - name: Hello, World!
+        uses: hexlet-components/hello-from-hexlet-action@release
